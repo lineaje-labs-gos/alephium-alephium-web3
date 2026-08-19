@@ -2,6 +2,12 @@
   "name": "@alephium/ts-root",
   "private": true,
   "license": "GPL",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "workspaces": [
     "packages/*"
   ],
@@ -40,5 +46,10 @@
   "engines": {
     "node": ">=16.0.0",
     "npm": ">=7.0.0"
+  },
+  "version": "0.3.0-rc.12-lineaje-01",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lineaje-labs-gos/alephium-alephium-web3"
   }
 }
